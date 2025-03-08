@@ -1,0 +1,20 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #222222;
+  color: #dddddd;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 0;
+  padding: 0;
+
+  height: 300px;
+  width: 100vw;
+  background-color: darkgreen;
+}
