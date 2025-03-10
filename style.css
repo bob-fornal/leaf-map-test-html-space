@@ -19,6 +19,17 @@ body {
   background-color: darkgreen;
 }
 
+.image-display {
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    height: 100px;
+  }
+}
+
 .functionality {
   background-color: aliceblue;
   padding: 1em 10em;
