@@ -16,7 +16,16 @@ body {
 
   height: 300px;
   width: 100vw;
-  background-color: darkgreen;
+
+  &.green {
+    background-color: darkgreen;
+  }
+  &.red {
+    background-color: red;
+  }
+  &.blue {
+    background-color: blue;
+  }
 }
 
 .image-display {
